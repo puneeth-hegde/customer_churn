@@ -145,7 +145,7 @@ Outputs:
 ### Clone repository  
 
 ```bash
-git clone https://github.com/your-username/customer_churn.git
+git clone https://github.com/puneeth-hegde/customer_churn.git
 cd customer_churn
 ```
 
@@ -174,13 +174,13 @@ Open in browser → `http://localhost:8501`
 ## Outputs and Results  
 
 ### Churn Distribution  
-![Churn Distribution](https://raw.githubusercontent.com/your-username/customer_churn/main/outputs/churn_distribution.png)
+![Churn Distribution](https://raw.githubusercontent.com/puneeth-hegde/customer_churn/main/outputs/churn_distribution.png)
 
 ### Feature Importance  
-![Feature Importance](https://raw.githubusercontent.com/your-username/customer_churn/main/outputs/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/puneeth-hegde/customer_churn/main/outputs/feature_importance.png)
 
 ### Confusion Matrix  
-![Confusion Matrix](https://raw.githubusercontent.com/your-username/customer_churn/main/outputs/confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/puneeth-hegde/customer_churn/main/outputs/confusion_matrix.png)
 
 ---
 
@@ -235,4 +235,10 @@ MIT License
 
 ## Contributor  
 
-- Puneeth Hegde – Data preprocessing, model pipeline, dashboard integration  
+- Puneeth Hegde – Data preprocessing, model pipeline, dashboard integration
+
+## Acknowledgments  
+- IBM Telco Churn Dataset: Kaggle  
+- Libraries: Scikit-learn, Pandas, Matplotlib, Streamlit  
+- Project guidance inspired by open-source ML tutorials and educational resources  
+
