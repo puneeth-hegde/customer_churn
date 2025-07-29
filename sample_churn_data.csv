@@ -1,0 +1,51 @@
+gender,tenure,MonthlyCharges,TotalCharges,InternetService,Contract,PaymentMethod,Churn
+Male,12,109.98,1319.76,Fiber optic,Two year,Bank transfer (automatic),No
+Male,48,87.79,4213.92,Fiber optic,One year,Credit card (automatic),Yes
+Female,22,91.95,2022.9,No,Month-to-month,Mailed check,No
+Female,26,63.21,1643.46,Fiber optic,Month-to-month,Credit card (automatic),No
+Female,64,24.35,1558.4,Fiber optic,Month-to-month,Mailed check,No
+Male,61,53.97,3292.17,No,One year,Bank transfer (automatic),No
+Female,47,65.55,3080.85,DSL,One year,Bank transfer (automatic),No
+Male,25,29.8,745.0,DSL,Two year,Mailed check,No
+Female,62,95.27,5906.74,No,Two year,Credit card (automatic),No
+Male,40,51.25,2050.0,DSL,Two year,Credit card (automatic),Yes
+Male,13,60.34,784.42,No,Two year,Credit card (automatic),Yes
+Female,11,72.37,796.07,No,One year,Bank transfer (automatic),Yes
+Male,1,104.29,104.29,DSL,Month-to-month,Bank transfer (automatic),Yes
+Female,45,94.45,4250.25,No,One year,Bank transfer (automatic),Yes
+Male,0,65.94,0.0,No,One year,Bank transfer (automatic),Yes
+Female,18,86.14,1550.52,Fiber optic,Month-to-month,Credit card (automatic),No
+Male,52,112.29,5839.08,DSL,Two year,Credit card (automatic),Yes
+Male,4,111.18,444.72,No,Month-to-month,Electronic check,Yes
+Male,12,109.17,1310.04,Fiber optic,Month-to-month,Credit card (automatic),Yes
+Female,40,54.91,2196.4,DSL,One year,Credit card (automatic),No
+Female,13,81.4,1058.2,Fiber optic,One year,Electronic check,No
+Male,43,101.74,4374.82,No,Month-to-month,Electronic check,No
+Female,36,76.34,2748.24,Fiber optic,One year,Credit card (automatic),Yes
+Female,30,59.74,1792.2,No,One year,Bank transfer (automatic),Yes
+Male,67,84.35,5651.45,No,Two year,Credit card (automatic),Yes
+Male,17,83.22,1414.74,DSL,One year,Electronic check,Yes
+Female,61,64.44,3930.84,DSL,Two year,Bank transfer (automatic),No
+Male,18,47.06,847.08,Fiber optic,Month-to-month,Credit card (automatic),No
+Male,15,116.02,1740.3,DSL,Two year,Electronic check,No
+Male,23,118.23,2719.29,No,One year,Bank transfer (automatic),Yes
+Male,66,25.28,1668.48,No,Month-to-month,Credit card (automatic),Yes
+Male,23,22.29,512.67,DSL,Month-to-month,Bank transfer (automatic),No
+Male,31,43.25,1340.75,DSL,One year,Electronic check,No
+Female,67,30.98,2075.66,DSL,Month-to-month,Electronic check,Yes
+Female,26,70.44,1831.44,Fiber optic,Month-to-month,Credit card (automatic),Yes
+Male,48,37.71,1810.08,Fiber optic,One year,Electronic check,Yes
+Female,13,105.29,1368.77,Fiber optic,One year,Credit card (automatic),Yes
+Male,35,108.5,3797.5,DSL,Month-to-month,Electronic check,No
+Male,32,106.99,3423.68,No,Month-to-month,Bank transfer (automatic),No
+Female,29,91.85,2663.65,No,One year,Electronic check,No
+Female,13,87.16,1133.08,Fiber optic,Two year,Bank transfer (automatic),No
+Male,9,107.49,967.41,Fiber optic,One year,Credit card (automatic),Yes
+Female,1,70.47,70.47,No,Two year,Electronic check,Yes
+Male,52,49.71,2584.92,Fiber optic,One year,Credit card (automatic),No
+Female,31,112.12,3475.72,DSL,One year,Bank transfer (automatic),Yes
+Male,55,71.48,3931.4,No,One year,Mailed check,No
+Female,50,32.66,1633.0,No,One year,Electronic check,Yes
+Male,43,118.03,5075.29,DSL,Two year,Electronic check,Yes
+Female,34,74.55,2534.7,Fiber optic,Month-to-month,Credit card (automatic),Yes
+Male,6,35.72,214.32,DSL,One year,Credit card (automatic),Yes
